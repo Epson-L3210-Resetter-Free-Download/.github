@@ -55,7 +55,7 @@ Now let’s go through the full reset process for your Epson L3210 printer.
 
 ### Step 1: Download the Resetter Tool
 
-Download the **Epson L3210 Adjustment Program (Resetter)** from a trusted website such as [fixepson.com](https://www.fixepson.com/).  
+Download the **Epson L3210 Adjustment Program (Resetter)** from a trusted website such as [Epson L3210 Resetter Download Guide]( https://fixepson.com/epson-l3210-resetter/).  
 Once downloaded, extract the ZIP file using **WinRAR** or **7-Zip**.
 
 You’ll find a folder containing:
@@ -163,4 +163,4 @@ Whether you’re a home user, small business owner, or technician, learning how 
 
 ---
 
-**Tip:** Always download the resetter from reliable websites like **SoftyDownload.com** to ensure safety and avoid malware.
+**Tip:** Always download the resetter from reliable websites like **fixepson.com** to ensure safety and avoid malware.
