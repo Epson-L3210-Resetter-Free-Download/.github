@@ -45,7 +45,7 @@ Before performing the reset process, it’s important to remember:
    Make sure no print jobs are running in the background before using the resetter.
 
 4. **Disable Antivirus Temporarily (if needed):**  
-   Some antivirus software might mistakenly detect the resetter as a threat because it’s an executable file (.exe). It’s safe to use as long as you download from a trusted source like **SoftyDownload.com**.
+   Some antivirus software might mistakenly detect the resetter as a threat because it’s an executable file (.exe). It’s safe to use as long as you download from a trusted source like **fixepson.com**.
 
 ---
 
